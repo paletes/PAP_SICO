@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "SICO",
+    "displayName": "SICO",
+    "slug": "sico",
+    "version": "1.2.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./src/imgs/icon.png",
+    "splash": {
+      "image": "./src/imgs/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.joaocorreia.sico",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.joaocorreia.sico",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "559afef5-1bc6-4ef6-97bd-048404c60b1a"
+      }
+    }
+  }
+}
